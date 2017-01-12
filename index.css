@@ -1,0 +1,45 @@
+.main {
+  margin-left: 15%;
+  margin-top: 0;
+  height: inherit;
+  border-left: 3px solid #eee;
+  background-color: #99ddff;
+}
+.header {
+  margin-bottom: 0;
+  border-bottom: 2px solid #eee;
+  background-color: #562852;
+  height: 15%
+}
+.h-border {
+  margin-top: -20px;
+  padding-top: 20px;
+  margin-left: 15%;
+  padding-left: 5%;
+  height: 100%;
+  border-left: 3px solid #eee;
+  background-color: #FFF;
+}
+.body {
+  padding-top: 10px;
+  padding-left: 6%;
+}
+.icons {
+  margin-top: 10%;
+  padding-left: 1%;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+}
+p {
+  text-decoration: none;
+  color: black;
+}
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+  width:100%;
+}
